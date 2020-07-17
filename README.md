@@ -7,12 +7,11 @@ I'm Lucas, I'm 20 years old and  currently a Computer Engineering student at the
 #### :heart_eyes: What I love?:
 - Python 🐍;
 - Machine Learning;
-- Android
-- Psychology;
-- Heroes films;
+- Games engines;
+- Social and charitable projects;
+- Action films, Documentarys and comedies;
 - The Legend of Zelda: BOTW, Witcher 3, Red dead Redemption 2. Are the 3 best games ever made(and Zelda series don´t have a bad game);
 - Every type of music(Brazilian Funk, Sertanejo, Rock, pop, literaly, every music);
-- participate in social and charitable projects;
 - Dogs and Cat (I have a labrador: Johny, and a cat that is no longer with us, called "Small");
 - Learning new things
 
