@@ -2,7 +2,7 @@
 
 I'm Lucas, I'm 20 years old and  currently a Computer Engineering student at the Federal University of São Carlos, Brazil.
 
-🌱 I’m currently learning  **R**, **Unity Engine and C#**, **Machine learning**
+🌱 I’m currently learning  **R**, **Unity Engine and C#**, **Machine learning** and **data science**
 
 #### :heart_eyes: What I love?:
 - Python 🐍;
