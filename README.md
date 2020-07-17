@@ -15,7 +15,7 @@ I'm Lucas, I'm 20 years old and  currently a Computer Engineering student at the
 - Dogs and Cat (I have a labrador: Johny, and a cat that is no longer with us, called "Small");
 - Learning new things
 
-#### ::mag:: How to reach me?
+#### :mag: How to reach me?
 <ul>
   <li style="display: flex; align-items: center;">
     <img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="12" alt="Instagram"> 
