@@ -32,4 +32,4 @@ I'm Lucas, I'm 20 years old and  currently a Computer Engineering student at the
 - :trophy: I already participated in the state championship of Judo when I was 10 years old, and I have accumulated a total of 23 medals and 2 trophies.
 - :baby: I was two months premature, born in Campinas-SP, at Unicamp Hospital
 - :blue_book: psychology is my second course option and would probably do it just for the knowledge
-- :video_game: I never had a Playstation, only Xbox and Nintendo, actualy I have: a Xbox 360, Xbox One, Nintendo Wii and Nintendo Switch(My xbox live: Diangeloo)
+- :video_game: Actualy I have: a PS2, Xbox 360, Xbox One, Nintendo Wii and Nintendo Switch(My xbox live: Diangeloo)
