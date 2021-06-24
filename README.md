@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Lucas, I'm 20 years old and  currently a Computer Engineering student at the Federal University of São Carlos, Brazil.
+I'm Lucas, I'm 21 years old and  currently a Computer Engineering student at the Federal University of São Carlos, Brazil.
 
 🌱 I’m currently learning  **R**, **Unity Engine and C#**, **Machine learning** and **NLP**
 
