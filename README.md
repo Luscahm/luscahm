@@ -2,34 +2,28 @@
 
 I'm Lucas, I'm 21 years old and  currently a Computer Engineering student at the Federal University of São Carlos, Brazil.
 
-🌱 I’m currently learning  **R**, **Unity Engine and C#**, **Machine learning** and **NLP**
+🌱 I’m currently learning  **Python**, **Ureal Engine and C++**,**C#**, **Machine learning** and **NLP**
 
-#### :heart_eyes: What I love?:
-- Python 🐍;
-- Machine Learning;
-- Games engines;
-- Social and charitable projects;
-- Action films, Documentarys and comedies;
-- The Legend of Zelda:BOTW, Red dead Redemption 2, Witcher 3 . Are the 3 best games ever made, in that order;
-- Every type of music(Brazilian Funk, Sertanejo, Rock, pop, literaly, every music);
-- Dogs and Cat (I have a labrador: Johny, and a cat that is no longer with us, called "Small");
-- Learning new things
+<div align="center">
+  <a href="https://github.com/Luscahm">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luscahm&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luscahm&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="CPP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="right" alt="mee" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/893218390137770027/928865048271650846/WhatsApp_Image_2022-01-06_at_00.42.08.jpeg">
 
-#### :mag: How to reach me?
-<ul>
-  <li style="display: flex; align-items: center;">
-    <img src="https://image.flaticon.com/icons/svg/174/174855.svg" width="12" alt="Instagram"> 
-    <a href="https://www.instagram.com/lucas.marchiori_/" target="_blank" title="Instagram">Instagram</a>
-  </li>
-  <li>
-    <img src="https://user-images.githubusercontent.com/3603793/87078013-6b09a380-c1fa-11ea-9ca0-6789b1cafb1c.png" width="12" alt="Linkedin"> 
-    <a href="https://www.linkedin.com/in/lucashm/" target="_blank" title="LinkedIn">LinkedIn</a>
-  </li>
-</ul>
+ </div>
+  
+  ##
+ 
+<div> 
+  <a href="https://www.instagram.com/lucas.marchiori_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:lucasmarchiori20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucashm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-#### ⚡ Fun facts:
-- :dancer: I have already participated in 2 dance festivals, where my group has already been in 3rd place and in 1st place
-- :trophy: I already participated in the state championship of Judo when I was 10 years old, and I have accumulated a total of 23 medals and 2 trophies.
-- :baby: I was two months premature, born in Campinas-SP, at Unicamp Hospital
-- :blue_book: psychology is my second course option and would probably do it just for the knowledge
-- :video_game: Actualy I have: a PS2, Xbox 360, Xbox One, Nintendo Wii and Nintendo Switch(My xbox live: Diangeloo)
+</div>
